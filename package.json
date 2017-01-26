@@ -17,7 +17,7 @@
     "epub"
   ],
   "dependencies": {
-    "epub-parser": ">=0.2.4"
+    "epub-parser": "git+https://github.com/said-jomedia/epub-parser.git"
   },
   "author": "vaporbook",
   "license": "BSD"
